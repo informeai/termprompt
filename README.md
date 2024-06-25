@@ -1,6 +1,7 @@
 # termprompt
 
 Prompt for ollama models with running in terminal
+
 OBS: using model `llama3`
 
 ### Requeriments
