@@ -8,6 +8,8 @@ OBS: using model `llama3`
 
 go `v1.22` or latest
 
+[langchaingo](https://github.com/tmc/langchaingo)
+
 ### Setup
 
 Running `ollama serve` in terminal
